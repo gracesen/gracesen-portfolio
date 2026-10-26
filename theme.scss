@@ -1,28 +1,38 @@
+
 /*-------------------------------------------------
-  Generic SCSS Starter
-  Replace the sample values with your own brand
+  Dusty Rose & Cocoa - Quarto Portfolio Theme
+  Fonts: Poppins + Lora
 --------------------------------------------------*/
 
 /*-- scss:defaults --*/
 
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
 // ── Brand Palette ────────────────────────────────
-$color-primary:   #123456;  // ← Replace with brand primary
-$color-secondary: #ABCDEF;  // ← Replace with brand secondary
+$color-primary:   #805B65;  // Dusty rose
+$color-secondary: #F0DEE1;  // Soft blush
 
 // Optional accent & neutral tones
-$accent-1:  #FF7F00;  // e.g., highlight / link
-$accent-2:  #A6CE6E;  // e.g., success
-$neutral-0: #FFFFFF;  // light / backgrounds
-$neutral-1: #F5F5F5;  // eggshell / subtle sections
-$neutral-9: #121212;  // near-black text
+$accent-1:  #C58B62;  // Warm cocoa / caramel
+$accent-2:  #B9C9B1;  // Muted sage
+$neutral-0: #FFFFFF;  // White
+$neutral-1: #FAF7F5;  // Warm cream
+$neutral-9: #30292B;  // Dark cocoa text
 
 // ── Typography ──────────────────────────────────
-$font-primary:    Arial, sans-serif;
-$font-secondary:  Georgia, serif;
+$font-primary:    'Poppins', sans-serif;
+$font-secondary:  'Lora', serif;
 $font-body:       $font-primary;
 
+// Quarto / Bootstrap variables
+$body-bg: $neutral-1;
+$body-color: $neutral-9;
+$link-color: $color-primary;
+$font-family-sans-serif: $font-primary;
+$headings-font-family: $font-secondary;
+
 // ── Derived / utility variables ─────────────────
-$color-secondary-dark: darken($color-secondary, 10%);
+$color-secondary-dark: darken($color-secondary, 35%);
 
 /*-- scss:rules --*/
 
@@ -37,28 +47,29 @@ body {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: $font-primary;
-  font-weight: bold;
+  font-family: $font-secondary;
+  font-weight: 600;
   margin-top: 0;
 }
 
-h1 { color: $color-primary;   }
+h1 { color: $color-primary; }
 h2 { color: $color-secondary-dark; }
-h3 { color: $accent-1;        }
+h3 { color: $color-primary; }
 
 /* Paragraphs */
 p {
   font-size: 1em;
-  line-height: 1.5;
+  line-height: 1.7;
   color: $neutral-9;
 }
 
 /* Links */
 a {
-  color: $accent-1;
+  color: $color-primary;
   text-decoration: none;
 
   &:hover {
+    color: darken($color-primary, 12%);
     text-decoration: underline;
   }
 }
@@ -77,13 +88,14 @@ pre code {
 /* Highlight utility */
 .highlight {
   background-color: $accent-1;
-  color: $neutral-0;
+  color: $neutral-9;
   padding: 0.2em 0.4em;
   border-radius: 0.2em;
 }
 
 /* Example animation (optional) */
 @keyframes progressColor {
-  0%   { background-color: $color-primary;   }
+  0%   { background-color: $color-primary; }
   100% { background-color: $color-secondary; }
 }
+  
