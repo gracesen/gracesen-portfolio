@@ -12,44 +12,81 @@ rmarkdown::render(
 )
 ```
 
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
+[View or download my PDF résumé](resume/Resume.pdf){.btn .btn-primary target="_blank"}
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+Digital marketing graduate student with experience in e-commerce, content creation, and marketing analytics. Skilled in GA4, Looker Studio, Shopify, and R, with a strong interest in data-driven marketing, customer insights, and dashboard development.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Marketing Analytics:** GA4, Looker Studio, campaign-performance analysis
+
+- **Data Analysis:** R, RStudio, data wrangling, and data visualization
+
+- **E-Commerce:** Shopify and Google Merchant Center
+
+- **Digital Marketing:** SEO, email marketing, social media marketing, influencer marketing, and content marketing
+
+- **Marketing Strategy:** Campaign planning and data-driven recommendations
+
+- **Content and Communication:** Content creation, presentations, livestream hosting, and audience engagement
+
+- **Additional Tools:** PowerPoint, Canva, and basic Adobe Photoshop
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| Degree | Year | Field | Institution |
+|----|----|----|----|
+| Master of Science in Digital Marketing | 2025-Expected 2027 | Digital Marketing | California State Polytechnic University, Pomona |
+| Bachelor’s Degree in International Relations | 2019-2023 | International Relations | Saigon University, Vietnam |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Marketing Intern, Van Lang Culture JSC
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+*Ho Chi Minh city, Vietnam \| 2023*
 
----
+- Supported the planning and coordination of promotional events.
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+- Created marketing content for social media and digital campaigns.
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+- Managed product information and promotional content across e-commerce platforms.
 
----
+------------------------------------------------------------------------
+
+### E-Commerce Livestream Host, OnPoint
+
+*Ho Chi Minh city, Vietnam \| 2023-2024*
+
+- Hosted e-commerce livestreams for international brands across Shopee, Lazada, TikTok Shop, and other e-commerce platforms.
+
+<!-- -->
+
+- Generated up to \$8,000 in revenue per livestream session.
+
+- Created short-form promotional content for TikTok and other social media channels.
+
+- Responded to customers and encouraged real-time audience interaction.
+
+------------------------------------------------------------------------
+
+### Digital Marketing Micro-Internships
+
+*Wellness Ranch Therapy and CPP Farm Store*
+
+- Developed digital marketing strategies, email campaigns, social media content, influencer marketing ideas, SEO recommendations, and website improvements.
+
+- Built and managed a Shopify store prototype and organized product information using Google Merchant Center best practices.
+
+- Used GA4 and Looker Studio to analyze customer behavior, track marketing performance, create dashboards, and develop data-driven recommendations.
+
+# Languages
+
+- Vietnamese (Native)
+
+- English
+
+- Cantonese
+
+- Mandarin Chinese

@@ -1,27 +1,41 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi! I'm Grace Sen"
 ---
 
-
-::: {.columns}
+::::: columns
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/grace-photo.png){.profile-photo}
 :::
-::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+
+::: {.column width="150%" style="padding-left: 5rem;"}
+*I enjoy using data and digital tools to understand customer behavior, evaluate marketing performance, and develop practical marketing recommendations.*
+
+*I approach each project by looking for the story behind the numbers and presenting it in a clear, useful way.*
 :::
-:::
+:::::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I am currently pursuing an **M.S. in Digital Marketing** at *Cal Poly Pomona* and expect to graduate in 2027. I also hold a **B.A. in International Relations** from *Saigon University* in Vietnam.
 
+My experience includes:
 
+- Digital marketing
+
+- E-commerce
+
+- Social media marketing
+
+- Marketing research
+
+- Data analysis
+
+I have worked with tools such as *GA4, Looker Studio, R, Quarto, SQL, Qualtrics, Shopify,* and *SEMrush.*
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](lsen@cpp.edu) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
----
+------------------------------------------------------------------------
 
 *Welcome to my portfolio.*
