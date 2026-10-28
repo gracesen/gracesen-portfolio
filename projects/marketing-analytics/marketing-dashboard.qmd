@@ -1,0 +1,49 @@
+---
+title: "Interactive Digital Marketing Dashboard"
+description: "Developing a Quarto dashboard and Shiny application for exploring campaign and customer performance."
+image: ../../images/projects/marketing-dashboard.png
+categories:
+  - Dashboarding
+  - Shiny
+  - Data Visualization
+  - R
+---
+
+## Project Overview
+
+This individual project transformed a digital marketing campaign dataset into two reporting tools: a static Quarto dashboard and an interactive Shiny application.
+
+The dataset contained 8,000 customer records covering demographics, campaign types, website engagement, email activity, purchase history, loyalty points, and conversion.
+
+## Dashboard Features
+
+The Quarto dashboard presented:
+
+- Total customers and overall conversion rate
+- Customer age and income distributions
+- Campaign-type performance
+- Website visits and time on site
+- Email engagement
+- Previous purchases and loyalty points
+
+The Shiny application allowed users to filter the data by date, campaign type, and gender. Users could also select variables for an interactive Plotly chart and review filtered records in a searchable table.
+
+## What I Learned
+
+This project helped me understand the difference between a fixed report and an interactive analytical application. The static dashboard communicates the main results quickly, while the Shiny application allows users to explore specific customer groups and marketing scenarios.
+
+## Tools and Skills
+
+- R and RStudio
+- Quarto dashboards
+- Shiny
+- Plotly
+- Interactive tables
+- Data visualization
+- User-controlled filters
+
+## Project Links
+
+- [View the Quarto dashboard](https://gracesen.github.io/IBM-6540-W10-Dashboard/)
+- [View the interactive Shiny application](https://gracesen.shinyapps.io/IBM6540-W10-shinyapps-GraceSen/)
+- [View the GitHub repository](https://github.com/gracesen/IBM-6540-W10-Dashboard)

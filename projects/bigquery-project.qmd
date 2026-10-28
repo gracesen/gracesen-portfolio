@@ -1,0 +1,11 @@
+---
+title: "Introduction to BigQuery"
+description: "Practice using SQL queries to explore and summarize data."
+author: "Grace Sen"
+date: "2026-10-03"
+categories: [SQL, BigQuery, Data Analysis]
+---
+
+## Project Overview
+
+This project introduced me to writing SQL queries in Google BigQuery and interpreting query results.

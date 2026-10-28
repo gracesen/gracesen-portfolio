@@ -1,0 +1,11 @@
+---
+title: "Avenue Shabu CEP"
+description: "A client project focused on customer experience, marketing, and promotion performance."
+author: "Grace Sen"
+date: "2026-10-20"
+categories: [CEP, Marketing Analytics, Customer Insights]
+---
+
+## Project Overview
+
+This project examines how Avenue Shabu can use customer and marketing data to support sales growth and improve marketing decisions.

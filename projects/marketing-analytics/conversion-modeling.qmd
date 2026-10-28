@@ -1,0 +1,58 @@
+---
+title: "Customer Conversion Prediction"
+description: "Comparing logistic regression and random forest models to predict digital marketing conversion."
+image: ../../images/projects/conversion-modeling.png
+categories:
+  - Machine Learning
+  - Classification
+  - Predictive Analytics
+  - R
+---
+
+## Project Overview
+
+This individual project applied supervised machine learning to predict whether a customer would convert after exposure to a digital marketing campaign.
+
+The analysis followed a complete modeling workflow that included data preparation, training and testing splits, preprocessing, cross-validation, model comparison, and feature-importance analysis.
+
+## Models Compared
+
+Two classification models were evaluated:
+
+- Logistic regression
+- Random forest with 500 decision trees
+
+Because the outcome was imbalanced, ROC AUC was used as the primary model-selection metric instead of relying only on accuracy.
+
+## Key Findings
+
+The random forest achieved the stronger overall discrimination:
+
+- **Random forest ROC AUC:** 0.825
+- **Logistic regression ROC AUC:** 0.801
+- **Logistic regression accuracy:** 89.4%
+- **Random forest accuracy:** 89.2%
+
+The random forest was selected because ROC AUC provided a more reliable performance measure for the imbalanced conversion outcome.
+
+Pages per visit, time on site, advertising spend, and click-through rate were among the most influential predictors. Other engagement measures, including email activity, previous purchases, and loyalty points, also contributed to prediction.
+
+## Business Value
+
+The results demonstrate how predictive models can help marketers identify high-potential customers and prioritize meaningful engagement signals. The project also reinforced that feature importance indicates predictive usefulness, not causation.
+
+## Tools and Skills
+
+- R and RStudio
+- `tidymodels`
+- `ranger`
+- Logistic regression
+- Random forest
+- Ten-fold cross-validation
+- ROC AUC
+- Feature importance
+
+## Project Links
+
+- [View the complete report](https://gracesen.github.io/IBM-6540-GP-M08/)
+- [View the GitHub repository](https://github.com/gracesen/IBM-6540-GP-M08)

@@ -1,0 +1,50 @@
+---
+title: "Amazon Weekly Revenue Forecasting"
+description: "Forecasting weekly revenue by comparing exponential smoothing and time-series regression models."
+image: ../../images/projects/amazon-forecast.png
+categories:
+  - Forecasting
+  - Time Series
+  - R
+  - Sales Analytics
+---
+
+## Project Overview
+
+This group project examined how historical Amazon transaction data could be used to forecast weekly revenue. The original order-level data was aggregated into weekly totals, creating a time series that could support an 8- to 12-week business forecast.
+
+My primary contributions included developing the forecasting methodology, writing the R code, comparing candidate models, and interpreting the forecast results.
+
+## Analytical Approach
+
+We compared two forecasting methods:
+
+- Exponential smoothing, or ETS
+- Time-series regression with pricing and customer-feedback predictors
+
+The final 12 weeks of data were reserved as a test set. Model performance was evaluated using RMSE and MAPE so that the forecasts could be compared on unseen data.
+
+## Key Findings
+
+The time-series regression model performed better than the ETS model:
+
+- **Regression MAPE:** 3.34%
+- **ETS MAPE:** 6.60%
+- **Regression RMSE:** 12,100
+- **ETS RMSE:** 22,906
+
+Weekly revenue was relatively stable, although short-term fluctuations were present. Review count was the most useful predictor in the regression model, while discount percentage and customer rating were not statistically significant.
+
+## Business Value
+
+The selected model could support short-term inventory planning, revenue targets, budget allocation, and cash-flow decisions. The findings also showed that businesses should validate discount strategies instead of assuming that greater discounting will automatically increase revenue.
+
+## Tools and Skills
+
+- R and RStudio
+- `fpp3`
+- Data aggregation
+- Time-series regression
+- Exponential smoothing
+- Forecast evaluation
+- Business recommendations

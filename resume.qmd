@@ -33,15 +33,15 @@ Digital marketing graduate student with experience in e-commerce, content creati
 
 # Work Experience
 
-### Marketing Intern, Van Lang Culture JSC
+### Digital Marketing Micro-Internships
 
-*Ho Chi Minh city, Vietnam \| 2023*
+*Wellness Ranch Therapy and CPP Farm Store*
 
-- Supported the planning and coordination of promotional events.
+- Developed digital marketing strategies, email campaigns, social media content, influencer marketing ideas, SEO recommendations, and website improvements.
 
-- Created marketing content for social media and digital campaigns.
+- Built and managed a Shopify store prototype and organized product information using Google Merchant Center best practices.
 
-- Managed product information and promotional content across e-commerce platforms.
+- Used GA4 and Looker Studio to analyze customer behavior, track marketing performance, create dashboards, and develop data-driven recommendations.
 
 ------------------------------------------------------------------------
 
@@ -61,15 +61,15 @@ Digital marketing graduate student with experience in e-commerce, content creati
 
 ------------------------------------------------------------------------
 
-### Digital Marketing Micro-Internships
+### Marketing Intern, Van Lang Culture JSC
 
-*Wellness Ranch Therapy and CPP Farm Store*
+*Ho Chi Minh city, Vietnam \| 2023*
 
-- Developed digital marketing strategies, email campaigns, social media content, influencer marketing ideas, SEO recommendations, and website improvements.
+- Supported the planning and coordination of promotional events.
 
-- Built and managed a Shopify store prototype and organized product information using Google Merchant Center best practices.
+- Created marketing content for social media and digital campaigns.
 
-- Used GA4 and Looker Studio to analyze customer behavior, track marketing performance, create dashboards, and develop data-driven recommendations.
+- Managed product information and promotional content across e-commerce platforms.
 
 # Languages
 

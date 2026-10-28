@@ -1,60 +1,63 @@
 ---
-title: "Strategic Marketing"
+title: "Digital Marketing"
+toc: true
+toc-depth: 2
 ---
 
-Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
+This page features selected academic, client-based, and professional experiences in digital marketing, e-commerce, customer research, and content development.
 
-## [Project Title 1: Strategic Campaign Planning]
+## Avenue Shabu Client Project
 
-In this project, I led the development of a comprehensive marketing campaign for **[product, service, or initiative]**. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
+![](images/digital-marketing/avenue-shabu.png){fig-alt="Avenue Shabu marketing analytics project" fig-align="center" width="50%"}
 
-**Skills Demonstrated:**
+### Promotion and Marketing Performance
 
-- **Marketing Strategy:** Defined objectives and tactics for maximum impact.
-- **Team Coordination:** Oversaw collaboration across creative, data, and channel teams.
-- **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
-- **Brand Positioning:** Ensured consistency across all touchpoints.
+As part of my Culminating Experience Project, I am working with Avenue Shabu to evaluate its marketing activities and identify opportunities to improve sales and profitability.
 
----
+My assigned area focuses on comparing promotional and non-promotional periods using sales, marketing expense, food cost, labor cost, and campaign information. The planned analysis will use promotional lift, contribution margin, and return on marketing investment to evaluate campaign performance.
 
-## [Project Title 2: Brand Audit & Positioning]
+Because the project is still in progress, the current work focuses on defining KPIs, reviewing available data, and preparing the analysis plan.
 
-This initiative involved conducting a full brand audit for **[organization or brand]**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
+**Skills:** Client consulting, promotion analysis, KPI development, marketing performance measurement, ROMI, and business recommendations.
 
-**Skills Demonstrated:**
+## CPP Farm Store Project
 
-- **Brand Analysis:** Audited messaging, tone, and visual identity.
-- **Competitive Benchmarking:** Evaluated brand positioning within the market.
-- **Strategic Communication:** Developed new value propositions and storytelling elements.
-- **Stakeholder Presentation:** Delivered recommendations to senior leadership.
+![](images/digital-marketing/cpp-farm-store.png){fig-alt="CPP Farm Store e-commerce project" fig-align="center" width="50%"}
 
----
+### E-Commerce and Digital Strategy
 
-## [Project Title 3: Product Launch Go-to-Market Plan]
+This project focused on improving the Farm Store’s digital and e-commerce experience. I helped develop a Shopify prototype, organize product information, and explore how digital analytics could support marketing decisions.
 
-For the release of **[new product/service]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
+**Skills:** Shopify, Google Merchant Center, GA4, Looker Studio, e-commerce strategy, and customer journey analysis.
 
-**Skills Demonstrated:**
+------------------------------------------------------------------------
 
-- **Go-to-Market Strategy:** Developed a clear launch roadmap aligned with buyer needs.
-- **Integrated Marketing:** Orchestrated email, paid ads, social, and on-site promotions.
-- **Budget Management:** Allocated resources efficiently across tactics.
-- **Launch Optimization:** Tracked performance and refined tactics in real time.
+## Wellness Ranch Therapy
 
-Below is an embedded demonstration of the interactive report:
+![](images/digital-marketing/wellness-ranch.png){fig-alt="Wellness Ranch Therapy digital marketing project" fig-align="center" width="50%"}
 
+I evaluated Wellness Ranch Therapy’s digital presence and developed recommendations to improve brand awareness, engagement, donations, and client growth.
 
-<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+My work included analyzing performance across TikTok, Instagram, Facebook, and YouTube, as well as reviewing audience segments, competitors, and existing content. I also developed recommendations for email marketing, influencer partnerships, website improvements, Facebook fundraising, and short-form social content.
 
----
+**Skills:** Social media analytics, content strategy, audience segmentation, email marketing, influencer marketing, competitive analysis, and website strategy.
 
-## [Project Title 4: Client Consulting & Campaign Optimization]
+------------------------------------------------------------------------
 
-I collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.
+# Work Experience
 
-**Skills Demonstrated:**
+## E-Commerce Livestream Host — OnPoint Vietnam
 
-- **Client Consulting:** Provided clear insights and strategic guidance.
-- **Persona Development:** Built target personas to guide messaging.
-- **Campaign Optimization:** Identified and addressed areas of underperformance.
-- **Data-Driven Adjustments:** Leveraged analytics to refine tactics.
+![](images/digital-marketing/onpoint-livestream.png){fig-alt="E-commerce livestream experience" fig-align="center" width="30%"}
+
+I hosted livestream shopping sessions on Shopee, Lazada, and TikTok Shop. I presented products, communicated promotional offers, and responded to customer questions in real time. Some sessions generated up to approximately \$8,000 in revenue.
+
+**Skills:** Livestream marketing, product presentation, customer engagement, social content, and e-commerce.
+
+## Marketing Intern — Van Lang Culture JSC
+
+![](images/digital-marketing/van-lang-marketing.png){fig-alt="Marketing internship experience" fig-align="center" width="50%"}
+
+I supported promotional events, social media content, and e-commerce marketing activities. My work included helping organize book promotions and environmental campaigns at colleges and universities, as well as managing product and promotional information across digital platforms.
+
+**Skills:** Content creation, social media marketing, promotional support, e-commerce, event management, and team collaboration.

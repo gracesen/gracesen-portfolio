@@ -1,0 +1,45 @@
+---
+title: "Customer Demographics and Conversion"
+description: "Evaluating whether age, gender, and income are useful for predicting digital marketing conversion."
+image: ../../images/projects/demographic-conversion.png
+categories:
+  - Customer Analytics
+  - Classification
+  - R
+  - Marketing Analytics
+---
+
+## Project Overview
+
+This analysis was my assigned analytics objective within a digital marketing campaign group project. I examined whether age, gender, and income were associated with customer conversion and whether these variables could support customer targeting.
+
+The dataset included 8,000 customer records and a binary conversion outcome.
+
+## Analytical Approach
+
+I used exploratory visualizations, logistic regression, and a random forest model. Because approximately 88% of customers converted, accuracy alone could provide a misleading picture of model performance.
+
+The analysis therefore emphasized ROC AUC, balanced accuracy, sensitivity, and specificity.
+
+## Key Findings
+
+Age, gender, and income showed substantial overlap between converters and non-converters. The better-performing demographic model produced:
+
+- **ROC AUC:** 0.539
+- **Balanced accuracy:** 0.501
+
+These results were close to chance-level performance, showing that demographic variables alone were not sufficient for identifying customers who were likely to convert.
+
+## Business Value
+
+The findings suggest that marketers should prioritize behavioral and engagement data when developing targeting strategies. Demographic information may still be useful for audience description, segmentation, and fairness checks, but it should not be treated as the primary source of conversion predictions.
+
+## Tools and Skills
+
+- R and RStudio
+- `tidyverse`
+- `tidymodels`
+- Logistic regression
+- Random forest
+- Cross-validation
+- Model evaluation

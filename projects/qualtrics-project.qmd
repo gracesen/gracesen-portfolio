@@ -1,0 +1,11 @@
+---
+title: "Qualtrics Survey Design"
+description: "A survey project using validation, survey flow, and customized response options."
+author: "Grace Sen"
+date: "2026-09-29"
+categories: [Qualtrics, Survey Research]
+---
+
+## Project Overview
+
+In this project, I created and customized a Qualtrics survey. I applied survey flow, response validation, embedded data, and question logic.
