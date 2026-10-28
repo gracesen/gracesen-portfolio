@@ -2,17 +2,7 @@
 title: "Résumé"
 ---
 
-```{r knit-resume, echo=FALSE, message=FALSE}
-rmarkdown::render(
-  "resume/Resume.Rmd",
-  output_format = "pdf_document",
-  output_file   = "Resume.pdf",
-  output_dir    = "resume",
-  quiet         = TRUE
-)
-```
-
-[View or download my PDF résumé](resume/Resume.pdf){.btn .btn-primary target="_blank"}
+[View or download my PDF résumé](resume/gracesen_resume_2026.pdf){.btn .btn-primary target="_blank"}
 
 # Professional Summary
 
@@ -37,7 +27,7 @@ Digital marketing graduate student with experience in e-commerce, content creati
 # Education
 
 | Degree | Year | Field | Institution |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Master of Science in Digital Marketing | 2025-Expected 2027 | Digital Marketing | California State Polytechnic University, Pomona |
 | Bachelor’s Degree in International Relations | 2019-2023 | International Relations | Saigon University, Vietnam |
 
