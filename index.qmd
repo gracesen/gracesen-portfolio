@@ -34,7 +34,7 @@ I have worked with tools such as *GA4, Looker Studio, R, Quarto, SQL, Qualtrics,
 
 ## Let's Connect
 
-You can [email me](lsen@cpp.edu) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:lsen@cpp.edu) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
 ------------------------------------------------------------------------
 

@@ -3,9 +3,10 @@ title: "Marketing Analytics"
 listing:
   contents: projects/marketing-analytics
   type: grid
+  grid-columns: 2
   categories: true
   sort: "title"
-  image-height: 180px
+  image-height: 200px
   page-size: 12
 ---
 

@@ -8,56 +8,80 @@ This page features selected academic, client-based, and professional experiences
 
 ## Avenue Shabu Client Project
 
-![](images/digital-marketing/avenue-shabu.png){fig-alt="Avenue Shabu marketing analytics project" fig-align="center" width="50%"}
+::::: {.columns .project-section}
+::: {.column width="40%"}
+![](images/digital-marketing/avenue-shabu.png){.project-image fig-alt="Avenue Shabu client project"}
+:::
 
+::: {.column width="55%"}
 ### Promotion and Marketing Performance
 
 As part of my Culminating Experience Project, I am working with Avenue Shabu to evaluate its marketing activities and identify opportunities to improve sales and profitability.
 
-My assigned area focuses on comparing promotional and non-promotional periods using sales, marketing expense, food cost, labor cost, and campaign information. The planned analysis will use promotional lift, contribution margin, and return on marketing investment to evaluate campaign performance.
+My assigned area compares promotional and non-promotional periods using sales, marketing expenses, food costs, labor costs, and campaign information. The planned analysis includes promotional lift, contribution margin, and return on marketing investment.
 
-Because the project is still in progress, the current work focuses on defining KPIs, reviewing available data, and preparing the analysis plan.
-
-**Skills:** Client consulting, promotion analysis, KPI development, marketing performance measurement, ROMI, and business recommendations.
+**Skills:** Client consulting, promotion analysis, KPI development, ROMI, and marketing performance measurement.
+:::
+:::::
 
 ## CPP Farm Store Project
 
-![](images/digital-marketing/cpp-farm-store.png){fig-alt="CPP Farm Store e-commerce project" fig-align="center" width="50%"}
-
+::::: {.columns .project-section}
+::: {.column width="58%"}
 ### E-Commerce and Digital Strategy
 
-This project focused on improving the Farm Store’s digital and e-commerce experience. I helped develop a Shopify prototype, organize product information, and explore how digital analytics could support marketing decisions.
+This project focused on improving the Farm Store’s digital and e-commerce experience. I helped develop a Shopify prototype, organize product information, and explore how analytics could support marketing decisions.
 
 **Skills:** Shopify, Google Merchant Center, GA4, Looker Studio, e-commerce strategy, and customer journey analysis.
+:::
 
-------------------------------------------------------------------------
+::: {.column width="42%"}
+![](images/digital-marketing/cpp-farm-store.png){.project-image fig-alt="CPP Farm Store e-commerce project"}
+:::
+:::::
 
 ## Wellness Ranch Therapy
 
-![](images/digital-marketing/wellness-ranch.png){fig-alt="Wellness Ranch Therapy digital marketing project" fig-align="center" width="50%"}
+::::: {.columns .project-section}
+::: {.column width="42%"}
+![](images/digital-marketing/wellness-ranch.png){.project-image fig-alt="Wellness Ranch Therapy digital marketing project"}
+:::
 
-I evaluated Wellness Ranch Therapy’s digital presence and developed recommendations to improve brand awareness, engagement, donations, and client growth.
+::: {.column width="58%"}
+I evaluated Wellness Ranch Therapy’s digital presence and developed recommendations to improve awareness, engagement, donations, and client growth.
 
-My work included analyzing performance across TikTok, Instagram, Facebook, and YouTube, as well as reviewing audience segments, competitors, and existing content. I also developed recommendations for email marketing, influencer partnerships, website improvements, Facebook fundraising, and short-form social content.
+My work included social media performance analysis, audience segmentation, competitor research, email marketing, influencer partnerships, website improvements, and Facebook fundraising.
 
-**Skills:** Social media analytics, content strategy, audience segmentation, email marketing, influencer marketing, competitive analysis, and website strategy.
-
-------------------------------------------------------------------------
+**Skills:** Social media analytics, content strategy, email marketing, influencer marketing, competitive analysis, and website strategy.
+:::
+:::::
 
 # Work Experience
 
-## E-Commerce Livestream Host — OnPoint Vietnam
+## E-Commerce Livestream Host — OnPoint
 
-![](images/digital-marketing/onpoint-livestream.png){fig-alt="E-commerce livestream experience" fig-align="center" width="30%"}
+::::: {.columns .project-section}
+::: {.column width="58%"}
+I hosted livestream shopping sessions on Shopee, Lazada, and TikTok Shop. I presented products, communicated promotional offers, and answered customer questions in real time. Some sessions generated up to approximately \$8,000 in revenue.
 
-I hosted livestream shopping sessions on Shopee, Lazada, and TikTok Shop. I presented products, communicated promotional offers, and responded to customer questions in real time. Some sessions generated up to approximately \$8,000 in revenue.
+**Skills:** Livestream marketing, customer engagement, social content, product presentation, and e-commerce.
+:::
 
-**Skills:** Livestream marketing, product presentation, customer engagement, social content, and e-commerce.
+::: {.column width="42%"}
+![](images/digital-marketing/onpoint-livestream.png){.project-image .livestream-image fig-alt="E-commerce livestream experience"}
+:::
+:::::
 
 ## Marketing Intern — Van Lang Culture JSC
 
-![](images/digital-marketing/van-lang-marketing.png){fig-alt="Marketing internship experience" fig-align="center" width="50%"}
+::::: {.columns .project-section}
+::: {.column width="42%"}
+![](images/digital-marketing/van-lang-marketing.png){.project-image fig-alt="Marketing internship experience"}
+:::
 
+::: {.column width="58%"}
 I supported promotional events, social media content, and e-commerce marketing activities. My work included helping organize book promotions and environmental campaigns at colleges and universities, as well as managing product and promotional information across digital platforms.
 
-**Skills:** Content creation, social media marketing, promotional support, e-commerce, event management, and team collaboration.
+**Skills:** Event management, content creation, social media marketing, promotional support, and e-commerce.
+:::
+:::::
